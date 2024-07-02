@@ -1,0 +1,3 @@
+C:/Projects/STM32Projects/stm32-microphone-processing/build/debug/build/CMakeFiles/Microphone_Project.dir
+C:/Projects/STM32Projects/stm32-microphone-processing/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Projects/STM32Projects/stm32-microphone-processing/build/debug/build/CMakeFiles/rebuild_cache.dir
